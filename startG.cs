@@ -439,13 +439,13 @@ public class startG : MonoBehaviour
                 break;
             case 53:
                 gM.BackG.sprite = gM.ChangeB[8];
-                gLove.StartGameCompetitionLocal2();
-                loP.casenumber = 54;
+                gLove.StartGameCompetitionLocal3();
+                
                 break;
 
             case 54:
                 gM.BackG.sprite = gM.ChangeB[9];
-                gLove.StartGameCompetitionLocal3();
+                gLove.StartGameCompetitionLocal4();
                 break;
 
         }
